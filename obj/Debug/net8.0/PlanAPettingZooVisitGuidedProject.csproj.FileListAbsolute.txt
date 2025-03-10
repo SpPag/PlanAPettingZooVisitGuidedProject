@@ -1,0 +1,14 @@
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\bin\Debug\net8.0\PlanAPettingZooVisitGuidedProject.exe
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\bin\Debug\net8.0\PlanAPettingZooVisitGuidedProject.deps.json
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\bin\Debug\net8.0\PlanAPettingZooVisitGuidedProject.runtimeconfig.json
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\bin\Debug\net8.0\PlanAPettingZooVisitGuidedProject.dll
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\bin\Debug\net8.0\PlanAPettingZooVisitGuidedProject.pdb
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.AssemblyInfoInputs.cache
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.AssemblyInfo.cs
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.csproj.CoreCompileInputs.cache
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.dll
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\refint\PlanAPettingZooVisitGuidedProject.dll
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.pdb
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\PlanAPettingZooVisitGuidedProject.genruntimeconfig.cache
+C:\Coding\Practice\PlanAPettingZooVisitGuidedProject\obj\Debug\net8.0\ref\PlanAPettingZooVisitGuidedProject.dll
